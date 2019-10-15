@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTtesting</string>
+    <string name="btn_enableBT">On/Off</string>
+    <string name="btn_scan">Enable Scan devices</string>
+    <string name="btn_enable_scan">btnEnableScan</string>
+    <string name="textviewDeviceNames">Device Names</string>
+    <string name="textviewDeviceAddress">Device Addresses</string>
+    <string name="btnScanDvice">Scan</string>
+</resources>
